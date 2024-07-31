@@ -1,1 +1,2 @@
-# Conversion-of-ASL-using-ML
+# SignLanguageDetectionUsingML
+SignLanguageDetectionUsingML
